@@ -11,6 +11,8 @@ You can try playing the game here : https://kaushikvrudhula.github.io/Hangman-Ga
 ---
 ![alt text height:100px;](https://github.com/kaushikvrudhula/Hangman-Game/blob/master/src/Index.PNG?raw=true)
 ---
+
+### An example of the game :-
 ![alt text](https://github.com/kaushikvrudhula/Hangman-Game/blob/master/src/Vid.gif?raw=true)
 
 
