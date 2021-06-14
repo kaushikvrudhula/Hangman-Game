@@ -1,16 +1,35 @@
+
+
+
 # Hangman Game 
+
+### Table of contents
+
+* [Description](#Desc)
+* [Objective](#Object)
+* [Game-link](#Game)
+* [Game play](#Gameplay)
+
+<a name="Desc"/>
 
 ## Description
 
 Hangman is a popular word guessing game where the player attempts to build a missing word by guessing one letter at a time. 
 After a certain number of incorrect guesses, the game ends and the player loses.
 
+<a name="Object"/>
+
 ## Objective
+
 Guess the word/phrase before your man gets hung!
 
 <img src="https://github.com/kaushikvrudhula/Hangman-Game/blob/master/src/Vid.gif" width="70%" height="200%">
 
+<a name="Game"/>
+
 You can try playing the game here : https://kaushikvrudhula.github.io/Hangman-Game/
+
+<a name="Gameplay"/>
 
 ### Game play
 * A word is picked randomly from the assigned js array ; the player tries to guess what it is one letter at a time.
