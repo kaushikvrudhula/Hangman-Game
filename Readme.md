@@ -1,4 +1,8 @@
 # Hangman Game 
+
+---
+<img src="https://github.com/kaushikvrudhula/Hangman-Game/blob/master/src/Vid.gif" width="70%" height="200%">
+---
 ## Description
 
 Hangman is a popular word guessing game where the player attempts to build a missing word by guessing one letter at a time. 
@@ -8,11 +12,8 @@ Also there is a option to either guess a single letter or a whole word , but the
 
 You can try playing the game here : https://kaushikvrudhula.github.io/Hangman-Game/
 
----
-![alt text height:100px;](https://github.com/kaushikvrudhula/Hangman-Game/blob/master/src/Index.PNG?raw=true)
----
 
-### An example of the game :-
-![alt text](https://github.com/kaushikvrudhula/Hangman-Game/blob/master/src/Vid.gif?raw=true)
+
+
 
 
